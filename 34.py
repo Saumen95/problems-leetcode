@@ -32,3 +32,6 @@ class Solution(object):
             else:
                 right = mid
         return left
+
+    
+    #  complexity O(n)
